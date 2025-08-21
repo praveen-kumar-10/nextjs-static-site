@@ -36,7 +36,7 @@ export default function Home() {
           />
           <ol>
             <li>
-              Get started by editing <code>pages/index.tsx</code>. New text
+              Get started by editing <code>pages/index.tsx</code>. New text. From Local
             </li>
             <li>Save and see your changes instantly.</li>
           </ol>
@@ -108,7 +108,7 @@ export default function Home() {
               width={16}
               height={16}
             />
-            Go to nextjs.org →
+            Go to nextjs.org â
           </a>
         </footer>
       </div>
